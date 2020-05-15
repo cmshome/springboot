@@ -23,7 +23,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <es.version>1.7.0</es.version>
-        <jackson.version>2.9.6</jackson.version>
+        <jackson.version>2.11.0</jackson.version>
 
         <fastjson-verison>1.2.58</fastjson-verison>
         <lombok-verison>1.18.8</lombok-verison>
