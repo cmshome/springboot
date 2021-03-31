@@ -27,7 +27,7 @@
 
         <fastjson-verison>1.2.58</fastjson-verison>
         <lombok-verison>1.18.8</lombok-verison>
-        <com.google.guava-version>28.1-jre</com.google.guava-version>
+        <com.google.guava-version>29.0-jre</com.google.guava-version>
     </properties>
 
     <dependencies>
